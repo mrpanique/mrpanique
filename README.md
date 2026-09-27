@@ -6,6 +6,6 @@ Hi there, I'm Bálint Panyik! 👋
 
 ---
 
-🔭 Currently working on: A multimodal RAG-based knowledge assistant with source-referencing capable of processing image-based documents.
+🔭 Currently working on: A multimodal RAG-based knowledge assistant with source-referencing, capable of processing image-based documents. (Thesis project)
 
 ⚡ Fun fact: I built my first custom MVC webshop from scratch in PHP before learning frameworks.
